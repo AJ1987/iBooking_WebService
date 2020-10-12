@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>iBooking_WebService</name>
+    </assembly>
+    <members>
+        <member name="T:iBooking_WebService.Controllers.TestController">
+            <summary>
+             Controller for test
+            </summary>
+        </member>
+        <member name="M:iBooking_WebService.Controllers.TestController.Get">
+            <summary>
+            Get test
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:iBooking_WebService.Controllers.TestController.Post">
+            <summary>
+            Post test
+            </summary>
+        </member>
+        <member name="M:iBooking_WebService.Controllers.TestController.Put">
+            <summary>
+             Put test
+            </summary>
+        </member>
+        <member name="M:iBooking_WebService.Controllers.TestController.Del">
+            <summary>
+             Delete test
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
